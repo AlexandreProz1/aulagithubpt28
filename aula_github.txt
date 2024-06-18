@@ -1,2 +1,7 @@
 Essa é a minha primeira aula de github
 Alteração do meu arquivo
+git init (incia repo)
+git add .(adiciona alterações)
+git commit -m(cria commit(historico de modificaçoes))
+git push -u origin main(Utilizado no primeiro push)
+git push(utilizado nos demais push)
